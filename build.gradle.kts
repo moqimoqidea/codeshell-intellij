@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.codeshell.intellij"
-version = "0.0.3"
+version = "0.0.4-moqi"
 
 repositories {
     mavenCentral()
